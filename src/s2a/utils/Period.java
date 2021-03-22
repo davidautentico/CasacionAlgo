@@ -1,0 +1,5 @@
+package s2a.utils;
+
+public enum Period {
+	DIARIO,SEMANAL,QUINCENAL,MENSUAL,TRIMESTRAL,SEMESTRAL,ANUAL
+}
